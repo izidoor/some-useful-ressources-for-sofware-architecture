@@ -19,10 +19,10 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://youtu.be/VIDEO_ID_1">
-        <img src="https://img.youtube.com/vi/VIDEO_ID_1/mqdefault.jpg" width="240" alt="Titre vidéo 1"><br>
-        <sub><b>Titre de la vidéo 1</b></sub>
-      </a>
+        <a href="https://youtu.be/-dXN8wkN0yk">
+          <img src="https://img.youtube.com/vi/-dXN8wkN0yk/mqdefault.jpg" width="240" alt="L'Architecture Hexagonale par la pratique,">
+          <sub><b>L'Architecture Hexagonale par la pratique</b></sub>
+        </a>
     </td>
     <td align="center" width="33%">
       <a href="https://youtu.be/VIDEO_ID_2">
