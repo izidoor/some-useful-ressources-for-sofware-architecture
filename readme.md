@@ -117,7 +117,7 @@
 
 ---
 
-## Ingénierie logicielle
+<!--## Ingénierie logicielle
 
 ### 🎥 Vidéos
 
@@ -175,20 +175,5 @@
   </tr>
 </table>
 
----
+----->
 
-## 🧩 Légende des placeholders
-
-| Token                  | À remplacer par                           | Comment l'obtenir                                                         |
-| ---------------------- | ----------------------------------------- | ------------------------------------------------------------------------- |
-| `VIDEO_ID_x`           | L'identifiant YouTube (ex. `-dXN8wkN0yk`) | La partie après `youtu.be/` ou `watch?v=`                                 |
-| `COVER_URL`            | L'URL de la couverture du livre           | Clic droit sur l'image → « Copier l'adresse de l'image » sur Amazon/Momox |
-| `LIEN_AMAZON_OU_MOMOX` | La fiche produit du livre                 | Copier l'URL de la page                                                   |
-| `LIEN`                 | Le lien de la ressource                   | —                                                                         |
-
-> **Miniatures YouTube** — qualités disponibles via `https://img.youtube.com/vi/VIDEO_ID/<qualité>.jpg` :
-> `mqdefault` (320×180), `hqdefault` (480×360, toujours présent), `maxresdefault` (1280×720, seulement si la vidéo est en HD).
->
-> **Attention couvertures de livres** — les URL d'images Amazon/Momox sont instables (elles peuvent expirer
-> ou être bloquées par le referrer). Pour un README pérenne, préfère héberger les couvertures dans le dépôt
-> (ex. `./assets/covers/clean-code.jpg`) et référencer le chemin relatif.
