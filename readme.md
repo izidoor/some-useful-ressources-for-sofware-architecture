@@ -5,14 +5,14 @@
 
 ## Sommaire
 
-- [Architecture Hexagonale](#architecture-hexagonale)
+- [Architecture Logicielle](#architecture-logicielle)
 - [Domain-Driven Design](#domain-driven-design)
 - [Ingénierie logicielle](#ingénierie-logicielle)
 - [Comment contribuer / remplacer les placeholders](#-légende-des-placeholders)
 
 ---
 
-## Architecture Hexagonale
+## Architecture Logicielle
 
 ### 🎥 Vidéos
 
@@ -25,15 +25,15 @@
         </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://youtu.be/VIDEO_ID_2">
-        <img src="https://img.youtube.com/vi/VIDEO_ID_2/mqdefault.jpg" width="240" alt="Titre vidéo 2"><br>
-        <sub><b>Titre de la vidéo 2</b></sub>
+      <a href="https://youtu.be/6ZqQOMTWzYs">
+        <img src="https://img.youtube.com/vi/6ZqQOMTWzYs/mqdefault.jpg" width="240" alt="CQRS, Fonctionnel, Event Sourcing & Domain Driven Design"><br>
+        <sub><b>CQRS, Fonctionnel, Event Sourcing & Domain Driven Design - Arnaud Lemaire</b></sub>
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://youtu.be/VIDEO_ID_3">
-        <img src="https://img.youtube.com/vi/VIDEO_ID_3/mqdefault.jpg" width="240" alt="Titre vidéo 3"><br>
-        <sub><b>Titre de la vidéo 3</b></sub>
+      <a href="https://youtu.be/S1V4t7SXXCU">
+        <img src="https://img.youtube.com/vi/S1V4t7SXXCU/mqdefault.jpg" width="240" alt="CQRS:ES from scratch (Emilien Pecoul - Florent Pellet) "><br>
+        <sub><b>CQRS:ES from scratch - Emilien Pecoul & Florent Pellet </b></sub>
       </a>
     </td>
   </tr>
@@ -41,11 +41,13 @@
 
 ### 🔗 Liens
 
-- [Hexagonal Architecture (article original d'Alistair Cockburn)](LIEN)
-- [Ports & Adapters — explication détaillée](LIEN)
-- [Exemple d'implémentation en Java / Spring Boot](LIEN)
 
-### 📖 Livres
+- [Hexagonal Architecture: the practical guide for a clean architecture](https://beyondxscratch.com/2017/08/19/hexagonal-architecture-the-practical-guide-for-a-clean-architecture/)
+- [Hexagonal Architecture with Java and Spring](https://reflectoring.io/spring-hexagonal/)
+- [CQRS, l'architecture aux deux visages (partie 1)](https://blog.octo.com/cqrs-larchitecture-aux-deux-visages-partie-1)
+- [CQRS, l'architecture aux deux visages (partie 2)](https://blog.octo.com/cqrs-larchitecture-aux-deux-visages-partie-2)
+- [Tackling Complexity in CQRS](https://vladikk.com/2017/03/20/tackling-complexity-in-cqrs/)
+<!--### 📖 Livres
 
 <table>
   <tr>
@@ -62,7 +64,7 @@
       </a>
     </td>
   </tr>
-</table>
+</table>-->
 
 ---
 
