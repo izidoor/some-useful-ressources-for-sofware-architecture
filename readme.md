@@ -7,8 +7,8 @@
 
 - [Architecture Logicielle](#architecture-logicielle)
 - [Domain-Driven Design](#domain-driven-design)
-- [Ingénierie logicielle](#ingénierie-logicielle)
-- [Comment contribuer / remplacer les placeholders](#-légende-des-placeholders)
+<!--- [Ingénierie logicielle](#ingénierie-logicielle)-->
+<!--- [Comment contribuer / remplacer les placeholders](#-légende-des-placeholders)-->
 
 ---
 
