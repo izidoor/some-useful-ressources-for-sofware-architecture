@@ -20,7 +20,7 @@
   <tr>
     <td align="center" width="33%">
         <a href="https://youtu.be/-dXN8wkN0yk">
-          <img src="https://img.youtube.com/vi/-dXN8wkN0yk/mqdefault.jpg" width="240" alt="L'Architecture Hexagonale par la pratique">
+          <img src="https://img.youtube.com/vi/-dXN8wkN0yk/mqdefault.jpg" width="240" alt="L'Architecture Hexagonale par la pratique"><br>
           <sub><b>L'Architecture Hexagonale par la pratique - Julien Topçu</b></sub>
         </a>
     </td>
