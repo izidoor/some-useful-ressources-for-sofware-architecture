@@ -30,12 +30,12 @@
         <sub><b>CQRS, Fonctionnel, Event Sourcing & Domain Driven Design - Arnaud Lemaire</b></sub>
       </a>
     </td>
-    <td align="center" width="33%">
+    <!--<td align="center" width="33%">
       <a href="https://youtu.be/S1V4t7SXXCU">
         <img src="https://img.youtube.com/vi/S1V4t7SXXCU/mqdefault.jpg" width="240" alt="CQRS:ES from scratch (Emilien Pecoul - Florent Pellet) "><br>
         <sub><b>CQRS:ES from scratch - Emilien Pecoul & Florent Pellet </b></sub>
       </a>
-    </td>
+    </td>-->
   </tr>
 </table>
 
