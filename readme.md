@@ -73,9 +73,9 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://youtu.be/VIDEO_ID_1">
-        <img src="https://img.youtube.com/vi/VIDEO_ID_1/mqdefault.jpg" width="240" alt="Titre vidéo 1"><br>
-        <sub><b>Titre de la vidéo 1</b></sub>
+      <a href="https://youtu.be/O2X7fH043gk">
+        <img src="https://img.youtube.com/vi/O2X7fH043gk/mqdefault.jpg" width="240" alt="Démystifions le Domain Driven Design - Maxime Sanglan-Charlier"><br>
+        <sub><b>Démystifions le Domain Driven Design - Maxime Sanglan-Charlier</b></sub>
       </a>
     </td>
     <td align="center" width="33%">
