@@ -20,8 +20,8 @@
   <tr>
     <td align="center" width="33%">
         <a href="https://youtu.be/-dXN8wkN0yk">
-          <img src="https://img.youtube.com/vi/-dXN8wkN0yk/mqdefault.jpg" width="240" alt="L'Architecture Hexagonale par la pratique,">
-          <sub><b>L'Architecture Hexagonale par la pratique</b></sub>
+          <img src="https://img.youtube.com/vi/-dXN8wkN0yk/mqdefault.jpg" width="240" alt="L'Architecture Hexagonale par la pratique">
+          <sub><b>L'Architecture Hexagonale par la pratique - Julien Topçu</b></sub>
         </a>
     </td>
     <td align="center" width="33%">
@@ -41,12 +41,12 @@
 
 ### 🔗 Liens
 
-
 - [Hexagonal Architecture: the practical guide for a clean architecture](https://beyondxscratch.com/2017/08/19/hexagonal-architecture-the-practical-guide-for-a-clean-architecture/)
 - [Hexagonal Architecture with Java and Spring](https://reflectoring.io/spring-hexagonal/)
 - [CQRS, l'architecture aux deux visages (partie 1)](https://blog.octo.com/cqrs-larchitecture-aux-deux-visages-partie-1)
 - [CQRS, l'architecture aux deux visages (partie 2)](https://blog.octo.com/cqrs-larchitecture-aux-deux-visages-partie-2)
 - [Tackling Complexity in CQRS](https://vladikk.com/2017/03/20/tackling-complexity-in-cqrs/)
+
 <!--### 📖 Livres
 
 <table>
@@ -74,6 +74,12 @@
 
 <table>
   <tr>
+  <td align="center" width="33%">
+    <a href="https://youtu.be/pMuiVlnGqjk">
+      <img src="https://img.youtube.com/vi/pMuiVlnGqjk/mqdefault.jpg" width="240" alt="What is DDD - Eric Evans - DDD Europe 2019"><br>
+      <sub><b>What is DDD - Eric Evans - DDD Europe 2019</b></sub>
+    </a>
+  </td>
     <td align="center" width="33%">
       <a href="https://youtu.be/O2X7fH043gk">
         <img src="https://img.youtube.com/vi/O2X7fH043gk/mqdefault.jpg" width="240" alt="Démystifions le Domain Driven Design - Maxime Sanglan-Charlier"><br>
@@ -81,15 +87,9 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://youtu.be/VIDEO_ID_2">
-        <img src="https://img.youtube.com/vi/VIDEO_ID_2/mqdefault.jpg" width="240" alt="Titre vidéo 2"><br>
-        <sub><b>Titre de la vidéo 2</b></sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://youtu.be/VIDEO_ID_3">
-        <img src="https://img.youtube.com/vi/VIDEO_ID_3/mqdefault.jpg" width="240" alt="Titre vidéo 3"><br>
-        <sub><b>Titre de la vidéo 3</b></sub>
+      <a href="https://youtu.be/jAl3c_zo71w">
+        <img src="https://img.youtube.com/vi/jAl3c_zo71w/mqdefault.jpg" width="240" alt="Bien se lancer dans le Domain Driven Design sans se tromper de combat - Josian Chevalier"><br>
+        <sub><b>[DevFest Nantes 2022] Bien se lancer dans le Domain Driven Design sans se tromper de combat - Josian Chevalier</b></sub>
       </a>
     </td>
   </tr>
@@ -97,30 +97,19 @@
 
 ### 🔗 Liens
 
-- [DDD Community](LIEN)
-- [Martin Fowler — Bounded Context / Ubiquitous Language](LIEN)
-- [DDD Reference (PDF d'Eric Evans)](LIEN)
+- [DDD Part 1: Strategic Domain-Driven Design](https://vaadin.com/blog/ddd-part-1-strategic-domain-driven-design)
+- [DDD Part 2: Tactical Domain-Driven Design](https://vaadin.com/blog/ddd-part-2-tactical-domain-driven-design)
+- [Domain-Driven Design (DDD) and Hexagonal Architecture in Java](https://vaadin.com/blog/ddd-part-3-domain-driven-design-and-the-hexagonal-architecture)
+- [Domain model purity vs. domain model completeness (DDD Trilemma)](https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/)
 
 ### 📖 Livres
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="LIEN_AMAZON_OU_MOMOX">
-        <img src="COVER_URL" width="120" alt="Domain-Driven Design"><br>
-        <sub><b>Domain-Driven Design</b><br>Eric Evans</sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="LIEN_AMAZON_OU_MOMOX">
-        <img src="COVER_URL" width="120" alt="Implementing DDD"><br>
-        <sub><b>Implementing DDD</b><br>Vaughn Vernon</sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="LIEN_AMAZON_OU_MOMOX">
-        <img src="COVER_URL" width="120" alt="Learning DDD"><br>
-        <sub><b>Learning DDD</b><br>Vlad Khononov</sub>
+      <a href="https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/">
+        <img src="https://www.oreilly.com/covers/urn:orm:book:9781098100124/296w/?format=webp" width="120" alt="Learning Domain Driven Design"><br>
+        <sub><b>Learning Domain Driven Design</b><br>Vlad Khononov</sub>
       </a>
     </td>
   </tr>
@@ -190,12 +179,12 @@
 
 ## 🧩 Légende des placeholders
 
-| Token | À remplacer par | Comment l'obtenir |
-| --- | --- | --- |
-| `VIDEO_ID_x` | L'identifiant YouTube (ex. `-dXN8wkN0yk`) | La partie après `youtu.be/` ou `watch?v=` |
-| `COVER_URL` | L'URL de la couverture du livre | Clic droit sur l'image → « Copier l'adresse de l'image » sur Amazon/Momox |
-| `LIEN_AMAZON_OU_MOMOX` | La fiche produit du livre | Copier l'URL de la page |
-| `LIEN` | Le lien de la ressource | — |
+| Token                  | À remplacer par                           | Comment l'obtenir                                                         |
+| ---------------------- | ----------------------------------------- | ------------------------------------------------------------------------- |
+| `VIDEO_ID_x`           | L'identifiant YouTube (ex. `-dXN8wkN0yk`) | La partie après `youtu.be/` ou `watch?v=`                                 |
+| `COVER_URL`            | L'URL de la couverture du livre           | Clic droit sur l'image → « Copier l'adresse de l'image » sur Amazon/Momox |
+| `LIEN_AMAZON_OU_MOMOX` | La fiche produit du livre                 | Copier l'URL de la page                                                   |
+| `LIEN`                 | Le lien de la ressource                   | —                                                                         |
 
 > **Miniatures YouTube** — qualités disponibles via `https://img.youtube.com/vi/VIDEO_ID/<qualité>.jpg` :
 > `mqdefault` (320×180), `hqdefault` (480×360, toujours présent), `maxresdefault` (1280×720, seulement si la vidéo est en HD).
